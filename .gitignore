@@ -1,0 +1,18 @@
+ # Ignore virtual environment
+.venv/
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore Python cache folders
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE configuration files (example for VS Code)
+.vscode/
+
+# Ignore Mac system files
+.DS_Store
+
